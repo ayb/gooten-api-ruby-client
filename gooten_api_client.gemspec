@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.license     = ""
 
 
-  s.add_runtime_dependency 'typhoeus', '~> 1.0.2'
+  s.add_runtime_dependency 'typhoeus', '~> 1.0'
   s.add_runtime_dependency 'json', '>= 1.4.6'
 
   s.add_development_dependency 'rspec', '~> 3.2', '>= 3.2.0'
